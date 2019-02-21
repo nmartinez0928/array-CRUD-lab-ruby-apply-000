@@ -11,6 +11,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   var fruits = ["banana", "Orange, "Apple", "Mango"];
+  fruits.push
 end
 
 def add_element_to_start_of_array(array, element)
