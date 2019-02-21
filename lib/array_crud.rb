@@ -5,10 +5,8 @@ end
 end
 
 def create_an_array
-  myarray[1] = 15;
-  sentence[0] = "the";
-  sentence[10] = sentence[0];
-  a.lastnames[3] = "Josh";
+  var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");
 end
 
 def add_element_to_end_of_array(array, element)
