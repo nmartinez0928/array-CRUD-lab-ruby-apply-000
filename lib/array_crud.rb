@@ -32,7 +32,9 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  String[] fruits = {"banana", "Orange", "Apple", "Mango"}
+  String[] fruits = {"banana", "Orange", "Apple", "Mango"};
+  
+end
 
 def retrieve_first_element_from_array(array)
   
